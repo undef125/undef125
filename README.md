@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kapil-kunwar-43a89a19a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/k_k_kk_1/" target="_blank">
+  <a href="https://www.instagram.com/k_k_kk_1/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/KapilKunwar7">
