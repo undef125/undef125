@@ -28,8 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=undef125&theme=dark" alt="Kapil" /></p>
 <br/><br/>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=undef125&theme=dracula" alt="Activity Graph" /></p>
-<br>
-
 
 
