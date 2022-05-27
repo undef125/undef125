@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, I'm Kapil Kunwar
 
-<!--
-**undef125/undef125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
+- I'm a front end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undef125&layout=compact&langs_count=8&theme=dark" />
+
+<br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=undef125&theme=dark" alt="Aashish" /></p>
+<br/><br/>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=undef125&theme=dracula" alt="Aashish's activity graph" /></p>
+<br>
+
+
+
