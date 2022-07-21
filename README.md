@@ -2,7 +2,7 @@
 
 
 - I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-- I'm a front end developer.
+- Web developer.
 
 <br />
 <div id="badges">
