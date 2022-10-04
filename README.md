@@ -2,7 +2,7 @@
 
 
 - I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-- Web developer.
+- MERN Stack Web developer.
 
 <br />
 <div id="badges">
