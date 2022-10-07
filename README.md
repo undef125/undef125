@@ -22,7 +22,7 @@
 
 <br />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undef125&layout=compact&langs_count=8&theme=dark" />
+ <img align="center" src="https://my.visme.co/view/vdvxj36w-3ezl33z8qmnql0q1" />
 
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=undef125&theme=dark" alt="Kapil" /></p>
