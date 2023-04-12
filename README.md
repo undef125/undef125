@@ -1,8 +1,8 @@
-### Hello, I'm Kapil Kunwar
+### Myself Kapil Kunwar
 
 
-- I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-- MERN Stack Web developer.
+- student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
+- Into MERN stack
 
 <br />
 <div id="badges">
