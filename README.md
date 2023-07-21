@@ -4,6 +4,12 @@
 - Student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
 - Into MERN stack
 
+<br /> 
+
+Tech Stack
+<br />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+
 <br />
 <div id="badges">
   <a href="https://www.linkedin.com/in/kapil-kunwar-43a89a19a/">
