@@ -2,7 +2,7 @@
 
 
 - Student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal 🇳🇵
-- Into MERN stack
+- M E R N is what I do
 
 <br /> 
 
